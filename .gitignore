@@ -1,0 +1,11 @@
+*.tar
+*.war
+build/classes
+*.class
+*.stale
+*.orig
+*~
+helloWorld/target
+.settings
+.project
+.classpath
